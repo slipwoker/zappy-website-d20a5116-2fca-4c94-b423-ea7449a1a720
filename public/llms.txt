@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מעל 25 שנות ניסיון בבניית, תיקון ושדרוג מערכות מסדי נתונים עסקיים. מומחי Microsoft Access שיחזירו את המערכת הקריטית שלך לפעולה מלאה — במהירות ובמחיר שמשתלם.
+
+### שירותים
+https://example.com/services
+שירותי תיקון באגים, שדרוג מערכות ישנות ושיפור ביצועים למסדי נתונים עסקיים. פתרונות חסכוניים שמשמרים את ההשקעה הקיימת שלך — בלי לבנות הכול מחדש.
+
+### פרויקטים
+https://example.com/projects
+גלו כיצד הצלנו מערכות קריטיות עבור מפעלים, רשתות חינוך ומוסדות גדולים. פרויקטים של שדרוג מערכות ישנות ושיפור ביצועים שהפכו כאוס טכנולוגי להצלחה עסקית.
+
+### צור קשר
+https://example.com/contact
+מערכת קרסה? קוד עזוב בלי מפתח? צרו קשר עם מומחה Microsoft Access שיגיב מהר ויספק פתרון מדויק לתיקון באגים ושדרוג מערכות — כי כל שעת השבתה עולה לכם כסף.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
