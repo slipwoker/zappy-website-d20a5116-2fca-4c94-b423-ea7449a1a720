@@ -2554,14 +2554,12 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border-radius: 0;
 }
 
-/* ── Scrim Overlay ── */
 .index-hero-section .index-hero-scrim {
   position: absolute;
   inset: 0;
   z-index: 1;
   pointer-events: none;
-  background-image:
-    linear-gradient(160deg, rgba(10,37,80,0.55) 0%, rgba(10,37,80,0.82) 55%, rgba(10,37,80,0.93) 100%);
+  background-image: linear-gradient(160deg, rgba(10,37,80,0.25) 0%, rgba(10,37,80,0.42) 55%, rgba(10,37,80,0.55) 100%);
 }
 
 /* ── Dotted Grid Decoration ── */
