@@ -2574,16 +2574,15 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   opacity: 1;
 }
 
-/* ── Container ── */
 .index-hero-section .index-hero-container {
   position: relative;
   z-index: 10;
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 120px 32px 0 32px;
+  padding: 120px 40px 0 400px;
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-end;
   align-items: flex-end;
   min-height: 100vh;
   box-sizing: border-box;
