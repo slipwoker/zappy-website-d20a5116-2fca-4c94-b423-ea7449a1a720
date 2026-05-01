@@ -8632,6 +8632,12 @@ body.accessibility-widget-visible ._access-menu {
   padding: 6px 10px !important;
 }
 }
+
+@media (max-width: 768px) {
+.index-hero-section .index-hero-bg img {
+  object-position: top center !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
